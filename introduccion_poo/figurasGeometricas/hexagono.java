@@ -1,6 +1,6 @@
 package figurasgeometricas;
 
-public class hexagono extends figurasGeometricas{
+public class Hexagono extends FigurasGeometricas{
   private double ladoA;
   
 private double ladoB;
