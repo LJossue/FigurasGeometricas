@@ -1,4 +1,5 @@
 package figurasgeometricas;
+
 import java.util.*;
 public class rombo extends figurasgeometricas{
     Scanner read = new Scanner(System.in);
