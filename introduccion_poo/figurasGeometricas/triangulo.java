@@ -1,7 +1,16 @@
 package figurasGeometricas;
 
 public class triangulo extends figurasGeometricas {
-  private double  ladoA, ladoB, ladoC, base, altura;
+  
+  private double  ladoA;
+  
+  private double  ladoB;
+    
+    private double  ladoC;
+    
+    private double  base;
+    
+    private double  altura;
 
   public triangulo() {
 
