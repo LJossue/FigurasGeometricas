@@ -9,7 +9,8 @@ public class ejecucion{
     triangulo tri = new triangulo();
     hexagono hex = new hexagono();
     Scanner read = new Scanner(System.in);
-    System.out.println("FIGURAS GEOMETRICAS\nSeleccione la figura\n1.- Triangulo\n2.- Rombo\n3.- Hexagono");
+    System.out.println("FIGURAS GEOMETRICAS\nSeleccione la figura");
+    System.out.println("\n1.- Triangulo\n2.- Rombo\n3.- Hexagono");
     seleccion = read.nextInt();
     switch (seleccion) {
       case 1:
