@@ -68,12 +68,14 @@ public class rombo extends figurasgeometricas{
     public void setArea(double area) {
         this.area = area;
     }
+    
 @Override
     public double calcularPerimetro() {
         double perimetro = ladoA + ladoA + ladoA + ladoA;
         System.out.println("El perimetro es:");
         return perimetro;
     }
+    
 @Override
     public double calcularArea() {
         setArea (((getdMayor() * getdMenor())/2));
