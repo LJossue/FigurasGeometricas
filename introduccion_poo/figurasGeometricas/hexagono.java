@@ -2,14 +2,23 @@ package figurasgeometricas;
 
 public class hexagono extends figurasGeometricas{
   private double ladoA;
+  
 private double ladoB;
+  
   private double ladoC;
+  
   private double ladoD;
+  
   private double ladoE;
+  
   private double ladoF;
+  
   private double perimetro;
+  
   private double apotema;
+  
   private double area;
+  
   public hexagono() {
 
   }
