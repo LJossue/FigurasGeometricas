@@ -115,6 +115,7 @@ private double ladoB;
     System.out.println("El perimetro es:");
     return perimetro;
   }
+  
 @Override
   public double calcularArea() {
     double area = ((perimetro * apotema) / 2);
