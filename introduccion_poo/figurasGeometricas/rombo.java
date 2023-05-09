@@ -2,7 +2,7 @@ package figurasgeometricas;
 
 import java.util.Scanner;
 
-public class Rombo extends figurasgeometricas{
+public class Rombo extends Figurasgeometricas{
     Scanner read = new Scanner(System.in);
     
     private double ladoA;
