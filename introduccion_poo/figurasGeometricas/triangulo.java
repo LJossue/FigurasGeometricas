@@ -1,6 +1,6 @@
 package figurasgeometricas;
 
-public class triangulo extends figurasGeometricas {
+public class Triangulo extends FigurasGeometricas {
   
   private double  ladoA;
   
