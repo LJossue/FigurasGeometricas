@@ -23,7 +23,8 @@ private double ladoB;
 
   }
 
-  public hexagono(double ladoA, double ladoB, double ladoC, double ladoD, double ladoE, double ladoF, double perimetro,
+  public hexagono(double ladoA, double ladoB, double ladoC, double ladoD,
+                  double ladoE, double ladoF, double perimetro,
       double apotema, double area) {
     this.ladoA = ladoA;
     this.ladoB = ladoB;
