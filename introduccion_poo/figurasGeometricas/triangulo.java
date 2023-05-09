@@ -66,6 +66,7 @@ public class triangulo extends figurasGeometricas {
     System.out.println("El perimetro es:");
     return perimetro;
   }
+  
 @Override
   public double calcularArea() {
     double area = ((base * altura) / 2);
