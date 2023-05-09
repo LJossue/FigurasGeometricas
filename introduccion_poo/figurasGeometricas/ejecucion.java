@@ -1,8 +1,8 @@
-package figurasGeometricas;
+package figurasgeometricas;
 
 import java.util.Scanner;
 
-public class ejecucion {
+public class ejecucion{
   public static void main(String[] args) {
     int seleccion;
     rombo rom = new rombo();
