@@ -16,7 +16,7 @@ public class triangulo extends figurasGeometricas {
 
   }
 
-  public triangulo(double area, double perimetro, double ladoA, double ladoB, double ladoC, double base,
+  public triangulo(double ladoA, double ladoB, double ladoC, double base,
       double altura) {
 
     this.ladoA = ladoA;
