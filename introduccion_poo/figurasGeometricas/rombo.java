@@ -1,8 +1,12 @@
 package figurasGeometricas;
 import java.util.*;
-public class rombo extends figurasGeometricas{
+public class rombo extends figurasgeometricas{
     Scanner read = new Scanner(System.in);
-    private double ladoA, dMayor, dMenor, perimetro, area;
+    private double ladoA;
+    private double dMayor;
+        private double dMenor;
+        private double perimetro;
+        private double area;
 
 
 
