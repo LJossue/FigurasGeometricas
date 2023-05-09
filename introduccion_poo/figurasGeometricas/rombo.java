@@ -3,6 +3,7 @@ package figurasgeometricas;
 import java.util.*;
 public class rombo extends figurasgeometricas{
     Scanner read = new Scanner(System.in);
+    
     private double ladoA;
     
     private double dMayor;
