@@ -19,7 +19,8 @@ public class rombo extends figurasgeometricas{
 
     }
     
-    public rombo(double ladoA, double dMayor, double dMenor, double perimetro, double area) {
+    public rombo(double ladoA, double dMayor, double dMenor,
+                 double perimetro, double area) {
         this.ladoA = ladoA;
         this.dMayor = dMayor;
         this.dMenor = dMenor;
