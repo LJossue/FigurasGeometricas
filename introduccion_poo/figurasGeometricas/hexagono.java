@@ -1,4 +1,4 @@
-package figurasGeometricas;
+package figurasgeometricas;
 
 public class hexagono extends figurasGeometricas{
   private double ladoA;
