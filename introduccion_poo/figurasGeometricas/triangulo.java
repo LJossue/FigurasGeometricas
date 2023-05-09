@@ -1,4 +1,4 @@
-package figurasGeometricas;
+package figurasgeometricas;
 
 public class triangulo extends figurasGeometricas {
   
